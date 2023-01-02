@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I build projects and challenge my knowledge.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KyleMitchell-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-mitchell-49b614257/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KyleMitchell-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-the-coder/)
 
 
 <div>
