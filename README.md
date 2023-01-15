@@ -62,9 +62,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyle-the-coder&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyle-the-coder&theme=dark&layout=compact" alt="Kyle-the-coder stats card" /></p>
 
 <!--
 
