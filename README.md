@@ -23,11 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/kyle-the-coder/).
 
-<div>
-  <img src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif" width="300" height="150"/>
-</div>
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
