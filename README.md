@@ -3,8 +3,11 @@
  
 <div align="center">
 
- 
-  **Welcome to My GitHub Page!** I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
+ <div>
+  **Welcome to My GitHub Page!** 
+ </div>
+  
+ I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
   
  
  <img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/e3e3dc50-a691-408f-a158-f1ead9283bd4" width="300px"/>
