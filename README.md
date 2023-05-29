@@ -30,6 +30,11 @@
 - :telescope: I'm continuously learning and growing as a developer, always exploring new technologies and expanding my skill set.
 
 - :zap: In my free time, I enjoy working on personal projects to challenge myself and further deepen my knowledge.
+- :computer: Currently dedicated to developing full websites for small businesses, helping them thrive and compete with larger enterprises.
+- :star2: Aspiring to empower smaller businesses through website creation, aiming to level the playing field and foster growth opportunities.
+- :art: Passionate about infusing human artistry and movement into technology, excited to explore its possibilities on my journey.
+- :raised_hands: As an artist, entrepreneur, and catalyst for positive impact, I strive to create meaningful experiences that enrich people's lives.
+
 
 - :mailbox: You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/kyle-the-coder/).
 
