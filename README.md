@@ -1,21 +1,21 @@
 
 <!-- header -->
-<div id="header" align="center">
-  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100"/>
+<div align="center">
+  **Welcome to My GitHub Page!** I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
+  
+  
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="margin-top: 10px">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-<div align="center">
-  **Welcome to My GitHub Page!** I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
-</div>
+
 
 ---
 
 ### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the Bay Area. With expertise in both frontend and backend development, I contribute to building robust web applications.
+ I am a Full Stack Developer based in the Bay Area. With expertise in both frontend and backend development, I contribute to building robust web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I'm continuously learning and growing as a developer, always exploring new technologies and expanding my skill set.
 
