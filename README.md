@@ -6,7 +6,9 @@
  
   **Welcome to My GitHub Page!** I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
   
- ![first](https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/e3e3dc50-a691-408f-a158-f1ead9283bd4)
+ 
+ <img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/e3e3dc50-a691-408f-a158-f1ead9283bd4" width="300px"/>
+
 
 
 </div>
