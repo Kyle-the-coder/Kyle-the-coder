@@ -1,9 +1,16 @@
 
 <!-- header -->
 <div align="center">
+ ![first](https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/c8282d31-fe8a-4894-9a1f-2c854fa1528c)
+
+ </div>
+<div align="center">
+
+ 
   **Welcome to My GitHub Page!** I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
   
-  
+ 
+
 </div>
 
 <div id="badges" align="center" style="margin-top: 10px">
