@@ -1,35 +1,32 @@
 
 <!-- header -->
-<div id="header" align="center" >
+<div id="header" align="center">
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
 </div>
 
 <div align="center">
-  Welcome to My Page! My name is Kyle Mitchell. 👋
+  **Welcome to My GitHub Page!** I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
 </div>
 
 ---
-<!-- about me -->
+
 ### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Bay Area.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the Bay Area. With expertise in both frontend and backend development, I contribute to building robust web applications.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm continuously learning and growing as a developer, always exploring new technologies and expanding my skill set.
 
-- :seedling: I'm somewhat new to programming so I am learning and growing constantly.
+- :zap: In my free time, I enjoy working on personal projects to challenge myself and further deepen my knowledge.
 
-- :zap: In my free time, I build projects and challenge my knowledge.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KyleMitchell-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-the-coder/)
-
+- :mailbox: You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/kyle-the-coder/).
 
 <div>
   <img src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif" width="300" height="150"/>
 </div>
+
 
 ---
 
