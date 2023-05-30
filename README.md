@@ -10,10 +10,10 @@
  I'm Kyle Mitchell, a Full Stack Developer from the Bay Area. 👋
   
  
- <img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/e3e3dc50-a691-408f-a158-f1ead9283bd4" width="250px" height="370px"/>
 
 
-<img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/9d893518-76e7-4708-b4e6-2a47ac7fc0b1" width="250px" height="370px"/>
+
+<img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/9d893518-76e7-4708-b4e6-2a47ac7fc0b1" width="450px" />
 
 </div>
 
