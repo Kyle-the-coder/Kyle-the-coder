@@ -26,14 +26,14 @@
 ---
 
 ### :technologist: About Me :
- I am a Full Stack Developer based in the Bay Area. With expertise in both frontend and backend development, I contribute to building robust web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ I am a Full Stack Developer based in the Bay Area. With expertise in both frontend and backend development, I contribute to building robust web applications.
 
-- :computer: Currently dedicated to developing full websites for small businesses, helping them thrive and compete with larger enterprises.
-- :art: Passionate about infusing human artistry and movement into technology, excited to explore its possibilities on my journey.
-- :raised_hands: As an artist, entrepreneur, and catalyst for positive impact, I strive to create meaningful experiences that enrich people's lives.
-- :star2: Aspiring to empower smaller businesses through website creation, aiming to level the playing field and foster growth opportunities.
-- :telescope: I'm continuously learning and growing as a developer, always exploring new technologies and expanding my skill set.
-- :zap: In my free time, I enjoy working on personal projects to challenge myself and further deepen my knowledge.
+- Currently dedicated to developing full websites for small businesses, helping them thrive and compete with larger enterprises.
+- Passionate about infusing human artistry and movement into technology, excited to explore its possibilities on my journey.
+- As an artist, entrepreneur, and catalyst for positive impact, I strive to create meaningful experiences that enrich people's lives.
+- Aspiring to empower smaller businesses through website creation, aiming to level the playing field and foster growth opportunities.
+- I'm continuously learning and growing as a developer, always exploring new technologies and expanding my skill set.
+- In my free time, I enjoy working on personal projects to challenge myself and further deepen my knowledge.
 
 
 - :mailbox: You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/kyle-the-coder/).
