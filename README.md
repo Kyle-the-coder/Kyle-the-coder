@@ -13,7 +13,7 @@
 
 
 
-<img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/9d893518-76e7-4708-b4e6-2a47ac7fc0b1" width="450px" />
+
 
 </div>
 
@@ -28,12 +28,10 @@
 ### :technologist: About Me :
  I am a Full Stack Developer based in the Bay Area. With expertise in both frontend and backend development, I contribute to building robust web applications.
 
-- Currently dedicated to developing full websites for small businesses, helping them thrive and compete with larger enterprises.
-- Passionate about infusing human artistry and movement into technology, excited to explore its possibilities on my journey.
-- As an artist, entrepreneur, and catalyst for positive impact, I strive to create meaningful experiences that enrich people's lives.
-- Aspiring to empower smaller businesses through website creation, aiming to level the playing field and foster growth opportunities.
-- I'm continuously learning and growing as a developer, always exploring new technologies and expanding my skill set.
-- In my free time, I enjoy working on personal projects to challenge myself and further deepen my knowledge.
+- Currently dedicated to educating myself in all things front-end development
+- Currently learning typeScript
+- Building projects daily to sharpen my skills
+- Excited to see what my new passion and future has in store for me
 
 
 - :mailbox: You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/kyle-the-coder/).
