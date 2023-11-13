@@ -37,8 +37,7 @@
 - :mailbox: You can reach me through my [LinkedIn profile](https://www.linkedin.com/in/kyle-the-coder/).
 
 ---
-
-### :hammer_and_wrench: Languages and Tools I have worked with before :
+Languages and Tools I have worked with before :
 
 
 <div>
@@ -48,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/ab7291f8-1042-437a-8a35-783049c13a05" title="TypeScript" alt="typeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
@@ -70,6 +70,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Kyle-the-coder/Kyle-the-coder/assets/111798115/ab7291f8-1042-437a-8a35-783049c13a05" title="TypeScript" alt="typeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>
 </div>
 
